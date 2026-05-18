@@ -12,7 +12,6 @@ RUN apk add --no-cache curl
 WORKDIR /app
 
 COPY --from=builder /build/target/*.jar app.jar
-RUN chown spring:spring app.jar
 
 EXPOSE 8080
 
