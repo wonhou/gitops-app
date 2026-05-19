@@ -15,7 +15,7 @@ public class LoadController {
 
     /**
      * 부하 시뮬레이션 엔드포인트.
-     * Day 2-03 (Prometheus + 골든 시그널)에서 활용.
+     * (Prometheus + 골든 시그널)에서 활용.
      *
      * type=slow   응답 시간 폭증 (Latency)
      * type=error  500 에러 발생 (Errors)
