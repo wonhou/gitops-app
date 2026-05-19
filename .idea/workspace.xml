@@ -39,10 +39,37 @@
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/CE/99.practice/argocd-lab/gitops-app&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OpsAppApplication">
+    <configuration name="OpsApp1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ops-app1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ops.app1.OpsApp1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpsApp2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ops-app2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ops.app2.OpsApp2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OpsAppApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="ops-app" />
@@ -68,7 +95,9 @@
       <option name="presentableId" value="Default" />
       <updated>1779078105435</updated>
       <workItem from="1779078106710" duration="8101000" />
-      <workItem from="1779092810449" duration="219000" />
+      <workItem from="1779092810449" duration="825000" />
+      <workItem from="1779157294930" duration="1603000" />
+      <workItem from="1779163370765" duration="1475000" />
     </task>
     <servers />
   </component>
