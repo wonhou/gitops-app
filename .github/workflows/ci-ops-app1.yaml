@@ -14,7 +14,7 @@ on:
 env:
   APP_NAME: ops-app1
   DOCKERHUB_IMAGE: dnjsgh/ops-app1
-  CONFIG_REPO: wonhou/gitops-config
+  CONFIG_REPO: wonhou123/gitops-config
   CONFIG_REPO_PATH: apps/ops-app1/overlays
 
 permissions:
